@@ -57,10 +57,10 @@ body{
 }
 .logo11{
 	width: 150px
-	
+	float: right;
 }
 .logo12{width: 150px
-	
+	float: left;
 }
 .text{
 
